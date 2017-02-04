@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_4f0b3bd67388c550d493e71b50de1b936a2ca83c.jar" />
+    </item>
+    <item
+        jar="G:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_cfaa441548cf89797e648dfc93748b544c0e70dd.jar" />
+    </item>
+    <item
+        jar="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.4.0_e60da1075fba4337925e9816eb992c70fbf9ac37.jar" />
+    </item>
+    <item
+        jar="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_45626de4eafc5fde677ce9df78e1ad5ff3345969.jar" />
+    </item>
+    <item
+        jar="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_9faad5c0ccf032030c229ff7b89937b82ce860c9.jar" />
+    </item>
+    <item
+        jar="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_e078291fd097436cc8f188aa3a41151ca0c58876.jar" />
+    </item>
+    <item
+        jar="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_554d5f6103a4210db847bc58bbf74e4834287183.jar" />
+    </item>
+    <item
+        jar="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_35af40b474d8dfc243f65339890c0a27387b1c6e.jar" />
+    </item>
+    <item
+        jar="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\googleDownloads\DefineBehaviorFAB\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_cf05c41c2aa1c794423c651f84b008d2fbc2b7f0.jar" />
+    </item>
+
+</items>
