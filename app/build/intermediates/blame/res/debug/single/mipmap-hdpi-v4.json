@@ -2,5 +2,9 @@
     {
         "merged": "E:\\googleDownloads\\DefineBehaviorFAB\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
         "source": "E:\\googleDownloads\\DefineBehaviorFAB\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\XUexi\\day\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\XUexi\\day\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }
 ]
